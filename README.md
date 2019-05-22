@@ -1,2 +1,2 @@
-# enterportal.github.com
+# enterportal.github.io
 My starting App 
